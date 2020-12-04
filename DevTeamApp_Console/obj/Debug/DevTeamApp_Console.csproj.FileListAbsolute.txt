@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\obj\Debug\DevTeamApp_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\obj\Debug\DevTeamApp_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\bin\Debug\DevTeamApp_Console.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\bin\Debug\DevTeamApp_Console.exe
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\bin\Debug\DevTeamApp_Console.pdb
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\bin\Debug\DevTeam_ClassLibrary.dll
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\bin\Debug\DevTeam_ClassLibrary.pdb
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\obj\Debug\DevTeamApp_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\obj\Debug\DevTeamApp_Console.exe
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeamApp_Console\obj\Debug\DevTeamApp_Console.pdb

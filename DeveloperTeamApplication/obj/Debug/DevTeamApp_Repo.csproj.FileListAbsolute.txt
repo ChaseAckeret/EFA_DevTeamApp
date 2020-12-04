@@ -1,0 +1,4 @@
+C:\Users\chase.ackeret\source\repos\DeveloperTeamApplication\DeveloperTeamApplication\obj\Debug\DevTeamApp_Repo.csprojAssemblyReference.cache
+C:\Users\chase.ackeret\source\repos\DeveloperTeamApplication\DeveloperTeamApplication\obj\Debug\DevTeamApp_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DeveloperTeamApplication\obj\Debug\DevTeamApp_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DeveloperTeamApplication\obj\Debug\DevTeamApp_Repo.csproj.CoreCompileInputs.cache

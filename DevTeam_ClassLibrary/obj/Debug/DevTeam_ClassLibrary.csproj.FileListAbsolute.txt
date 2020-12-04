@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\bin\Debug\DevTeam_ClassLibrary.dll
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\bin\Debug\DevTeam_ClassLibrary.pdb
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\obj\Debug\DevTeam_ClassLibrary.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\obj\Debug\DevTeam_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\obj\Debug\DevTeam_ClassLibrary.dll
+C:\ElevenFiftyProjects\DotNetProjects\DeveloperTeamApplication\DevTeam_ClassLibrary\obj\Debug\DevTeam_ClassLibrary.pdb
